@@ -37,6 +37,10 @@ h1 {
   font-family: "Gloria Hallelujah", cursive;
   
 }
+#developer{
+  font-size: 24px;
+  color:bisque;
+}
 
 .card:hover {
   color: rgb(25, 25, 26);
